@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - enter point
+ * main - Entry point
  *
- * Descreption: print Programming is like building a multilingual puzzle
- *
- * retun 0 (success)
-*/
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {puts("\"Programming is like building a multilingual puzzle");
